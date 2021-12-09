@@ -4,8 +4,8 @@ def add(number1, number2):
 
 add(3,6)
 
-def deduction(number1, number2):
-    resultdeduction = number1 - number2
-    return resultdeduction
+def deduct(number1, number2):
+    resultdeduct = number1 - number2
+    return resultdeduct
 
-deduction(10,6)
+deduct(9,6)
